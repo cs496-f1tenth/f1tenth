@@ -39,3 +39,4 @@ environment for this specific race has not been defined, but past racetracks inc
 
 - car must be able to emergency stop remotely by a trigger
 - car must be easily percievable by an opponent’s LiDAR, ie must occupy a space of at lease 12x12cm at every horizontal plane between 10 to 30 cm above the ground
+- extra parts can be created. Big Fish Co. has manufactured parts using PETG and PLA plastics and a 3D printer
