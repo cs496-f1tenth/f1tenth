@@ -13,6 +13,9 @@ Stack used:
 2. Assess performance with hairpins and tight turns
 3. Log max speeds
 
+![benchmark mock racetrack](benchmark_media/2-4-2026_racetrack.jpg)
+Figure 1: benchmark mock racetrack
+
 **Observations:**
 
 **Speed**
@@ -21,6 +24,7 @@ Speed was capped at 2 m/s. Speeds above this would cause the localization to lag
 Fix options:
 1. Swap localization algorithm (cartographer integration is currently in the works)
 2. Check latency of AMCL. This algorithm is said to perform well even with high speeds, look into why that isn’t the case here
+
 
 **Trajectory**
 
