@@ -13,6 +13,6 @@
 
 ## Readings: 
 Here are some research papers involving the topic of overtaking in autonomous vehicles.
-- (Model Predictive control with overtaking maneuvers built into the path planning)[https://ieeexplore.ieee.org/document/10928922]
-- (Systematic review of different overtaking strategies in autonomous vehicles)[https://www.sciencedirect.com/science/article/pii/S2666691X24000393]
-- (Model Predictive Control that switches to a dedicated overtaking controller when needed)[https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12507]
+- [Model Predictive control with overtaking maneuvers built into the path planning](https://ieeexplore.ieee.org/document/10928922)
+- [Systematic review of different overtaking strategies in autonomous vehicles](https://www.sciencedirect.com/science/article/pii/S2666691X24000393)
+- [Model Predictive Control that switches to a dedicated overtaking controller when needed](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12507)
