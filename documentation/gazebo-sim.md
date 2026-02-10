@@ -14,7 +14,8 @@ sudo apt install -y \
   ros-humble-ros-gz \
   ros-humble-ros-gz-sim \
   ros-humble-ros-gz-bridge \
-  ros-humble-ros-gz-sim-demos
+  ros-humble-ros-gz-sim-demos \
+  gazebo
 ```
 
 ## Verify Installation
@@ -22,16 +23,13 @@ sudo apt install -y \
 Run this to check the Gazebo Version, along with verifying it installed properly
 
 ```
-gz --version
-```
-or
-```
-gz sim --version
+gz --help
 ```
 
 Expected Output:
 ```
-Gazebo Sim, version(version)
+gz help [options]
+...
 ```
 
 ## Verify the Sim works with ROS2
