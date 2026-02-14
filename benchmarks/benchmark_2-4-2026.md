@@ -25,7 +25,7 @@ Fix options:
 1. Swap localization algorithm (cartographer integration is currently in the works)
 2. Check latency of AMCL. This algorithm is said to perform well even with high speeds, look into why that isn’t the case here
 
-![](benchmark_media/2-4-2026_amcl.mp4)
+[AMCL benchmark video](https://www.youtube.com/watch?v=OTsvAsLGffM)
 
 
 
@@ -41,4 +41,4 @@ Vehicle only runs counter clockwise
 Fix options:
 1. check configs if there is a setting for this
 
-![](benchmark_media/2-4-2026_linkedcurvebenchmark.mp4)
+[Linked Curve benchmark video](https://youtu.be/gVhkMk-92a8)
